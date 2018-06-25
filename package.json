@@ -1,0 +1,19 @@
+{
+  "name": "cordova-orientationlock",
+  "version": "1.0.0",
+  "description": "Android Cordova plugin for locking/unlocking the screen orientation from Javascript",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:geneanet/cordova-orientationlock.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geneanet/cordova-orientationlock/issues"
+  },
+  "homepage": "https://github.com/geneanet/cordova-orientationlock#readme"
+}
